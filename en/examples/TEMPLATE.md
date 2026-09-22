@@ -2,8 +2,6 @@
 
 ## Situation
 
-Describe when this occurs and the systems involved.
-
 ## Current Flow
 
 ```text
@@ -14,17 +12,32 @@ Human
 Destination
 ```
 
-## What the Human Decides
+## Human Roles
 
-## What the Human Transports
+- Selection:
+- Routing:
+- Transform:
+- Judgment:
+- Approval:
+- Transport:
 
-## Why It Exists
+## Mechanical Human Work
 
-## Possible Improvement
+## Why Is a Human Here?
+
+## What Could Be Automated?
+
+## What Should Remain Human?
+
+## Possible Improvements
+
+## After / Meat-to-Auto
 
 ## Status
 
 `Common` / `Workaround available` / `Partially automated` / `Solved` / `Historical`
+
+## History
 
 ## Comic
 
